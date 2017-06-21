@@ -1,0 +1,79 @@
+2017-06-16 15:24:12 FATAL root:14 - fatal message
+2017-06-16 15:26:14 DEBUG root:10 - debug message
+2017-06-16 15:26:14 INFO  root:11 - info message
+2017-06-16 15:26:14 WARN  root:12 - warn message
+2017-06-16 15:26:14 ERROR root:13 - error message
+2017-06-16 15:26:14 FATAL root:14 - fatal message
+2017-06-16 15:26:33 FATAL root:14 - fatal message
+2017-06-16 15:27:26 FATAL root:14 - fatal message
+2017-06-16 15:27:45 FATAL root:14 - fatal message
+2017-06-16 15:27:52 FATAL root:14 - fatal message
+2017-06-16 15:27:57 FATAL root:14 - fatal message
+2017-06-16 15:28:42 TRACE root:9 - trace message
+2017-06-16 15:28:42 DEBUG root:10 - debug message
+2017-06-16 15:28:42 INFO  root:11 - info message
+2017-06-16 15:28:42 WARN  root:12 - warn message
+2017-06-16 15:28:42 ERROR root:13 - error message
+2017-06-16 15:28:42 FATAL root:14 - fatal message
+2017-06-16 15:29:41 TRACE root:9 - trace message
+2017-06-16 15:29:41 DEBUG root:10 - debug message
+2017-06-16 15:29:41 INFO  root:11 - info message
+2017-06-16 15:29:41 WARN  root:12 - warn message
+2017-06-16 15:29:41 ERROR root:13 - error message
+2017-06-16 15:29:41 FATAL root:14 - fatal message
+2017-06-16 15:30:13 TRACE root:9 - trace message
+2017-06-16 15:30:13 DEBUG root:10 - debug message
+2017-06-16 15:30:13 INFO  root:11 - info message
+2017-06-16 15:30:13 WARN  root:12 - warn message
+2017-06-16 15:30:13 ERROR root:13 - error message
+2017-06-16 15:30:13 FATAL root:14 - fatal message
+2017-06-16 15:31:01 TRACE root:9 - trace message
+2017-06-16 15:31:01 DEBUG root:10 - debug message
+2017-06-16 15:31:01 INFO  root:11 - info message
+2017-06-16 15:31:01 WARN  root:12 - warn message
+2017-06-16 15:31:01 ERROR root:13 - error message
+2017-06-16 15:31:01 FATAL root:14 - fatal message
+2017-06-16 15:31:01 FATAL root:18 - / by zero
+java.lang.ArithmeticException: / by zero
+	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:21)
+	at com.revature.mavenDemo.App.main(App.java:12)
+2017-06-16 15:31:26 TRACE root:9 - trace message
+2017-06-16 15:31:26 DEBUG root:10 - debug message
+2017-06-16 15:31:26 INFO  root:11 - info message
+2017-06-16 15:31:26 WARN  root:12 - warn message
+2017-06-16 15:31:26 ERROR root:13 - error message
+2017-06-16 15:31:26 FATAL root:14 - fatal message
+2017-06-16 15:31:26 FATAL root:18 - / by zero
+java.lang.ArithmeticException: / by zero
+	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at com.revature.mavenDemo.App.main(App.java:12)
+2017-06-16 15:36:05 TRACE root:9 - trace message
+2017-06-16 15:36:05 DEBUG root:10 - debug message
+2017-06-16 15:36:05 INFO  root:11 - info message
+2017-06-16 15:36:05 WARN  root:12 - warn message
+2017-06-16 15:36:05 ERROR root:13 - error message
+2017-06-16 15:36:05 FATAL root:14 - fatal message
+2017-06-16 15:36:05 FATAL root:18 - / by zero
+java.lang.ArithmeticException: / by zero
+	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at com.revature.mavenDemo.App.main(App.java:12)
+2017-06-16 15:37:53 TRACE root:9 - trace message
+2017-06-16 15:37:53 DEBUG root:10 - debug message
+2017-06-16 15:37:53 INFO  root:11 - info message
+2017-06-16 15:37:53 WARN  root:12 - warn message
+2017-06-16 15:37:53 ERROR root:13 - error message
+2017-06-16 15:37:53 FATAL root:14 - fatal message
+2017-06-16 15:37:53 FATAL root:18 - / by zero
+java.lang.ArithmeticException: / by zero
+	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at com.revature.mavenDemo.App.main(App.java:12)
+2017-06-21 00:18:20 TRACE root:9 - trace message
+2017-06-21 00:18:20 DEBUG root:10 - debug message
+2017-06-21 00:18:20 INFO  root:11 - info message
+2017-06-21 00:18:20 WARN  root:12 - warn message
+2017-06-21 00:18:20 ERROR root:13 - error message
+2017-06-21 00:18:20 FATAL root:14 - fatal message
+2017-06-21 00:18:20 FATAL root:18 - / by zero
+java.lang.ArithmeticException: / by zero
+	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at com.revature.mavenDemo.App.main(App.java:12)
