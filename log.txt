@@ -35,8 +35,8 @@
 2017-06-16 15:31:01 FATAL root:14 - fatal message
 2017-06-16 15:31:01 FATAL root:18 - / by zero
 java.lang.ArithmeticException: / by zero
-	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:21)
-	at com.revature.mavenDemo.App.main(App.java:12)
+	at mavenDemo.App.exceptionThrowingGarbage(App.java:21)
+	at mavenDemo.App.main(App.java:12)
 2017-06-16 15:31:26 TRACE root:9 - trace message
 2017-06-16 15:31:26 DEBUG root:10 - debug message
 2017-06-16 15:31:26 INFO  root:11 - info message
@@ -45,8 +45,8 @@ java.lang.ArithmeticException: / by zero
 2017-06-16 15:31:26 FATAL root:14 - fatal message
 2017-06-16 15:31:26 FATAL root:18 - / by zero
 java.lang.ArithmeticException: / by zero
-	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
-	at com.revature.mavenDemo.App.main(App.java:12)
+	at mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at mavenDemo.App.main(App.java:12)
 2017-06-16 15:36:05 TRACE root:9 - trace message
 2017-06-16 15:36:05 DEBUG root:10 - debug message
 2017-06-16 15:36:05 INFO  root:11 - info message
@@ -55,8 +55,8 @@ java.lang.ArithmeticException: / by zero
 2017-06-16 15:36:05 FATAL root:14 - fatal message
 2017-06-16 15:36:05 FATAL root:18 - / by zero
 java.lang.ArithmeticException: / by zero
-	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
-	at com.revature.mavenDemo.App.main(App.java:12)
+	at mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at mavenDemo.App.main(App.java:12)
 2017-06-16 15:37:53 TRACE root:9 - trace message
 2017-06-16 15:37:53 DEBUG root:10 - debug message
 2017-06-16 15:37:53 INFO  root:11 - info message
@@ -65,8 +65,8 @@ java.lang.ArithmeticException: / by zero
 2017-06-16 15:37:53 FATAL root:14 - fatal message
 2017-06-16 15:37:53 FATAL root:18 - / by zero
 java.lang.ArithmeticException: / by zero
-	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
-	at com.revature.mavenDemo.App.main(App.java:12)
+	at mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at mavenDemo.App.main(App.java:12)
 2017-06-21 00:18:20 TRACE root:9 - trace message
 2017-06-21 00:18:20 DEBUG root:10 - debug message
 2017-06-21 00:18:20 INFO  root:11 - info message
@@ -75,5 +75,5 @@ java.lang.ArithmeticException: / by zero
 2017-06-21 00:18:20 FATAL root:14 - fatal message
 2017-06-21 00:18:20 FATAL root:18 - / by zero
 java.lang.ArithmeticException: / by zero
-	at com.revature.mavenDemo.App.exceptionThrowingGarbage(App.java:22)
-	at com.revature.mavenDemo.App.main(App.java:12)
+	at mavenDemo.App.exceptionThrowingGarbage(App.java:22)
+	at mavenDemo.App.main(App.java:12)
